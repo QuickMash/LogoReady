@@ -1,2 +1,3 @@
-# LogoReady
-Premade logos
+# QuickLogoZ
+Premade logos by QuickMash Studios
+2023
